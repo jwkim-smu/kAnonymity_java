@@ -1,0 +1,15 @@
+#!/bin/bash
+
+java -Xmx50000m -jar kAnonymity_java.jar 100 inputFile_100MB.txt
+
+java -Xmx50000m -jar kAnonymity_java.jar 500 inputFile_100MB.txt
+
+java -Xmx50000m -jar kAnonymity_java.jar 1000 inputFile_100MB.txt
+
+
+
+
+
+
+
+
